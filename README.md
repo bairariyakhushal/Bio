@@ -1,4 +1,4 @@
- 🚀 **Khushal Bairariya**  
+ # 🚀 **Khushal Bairariya**  
 
 👋 Hi there! I'm **Khushal Bairariya**, a passionate **C++ programmer**, **DSA enthusiast**, and **Competitive Programmer**. I love solving complex problems and building efficient algorithms. Currently, I'm exploring **MERN Stack Development** to enhance my web development skills.  
 
